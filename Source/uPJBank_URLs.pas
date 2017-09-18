@@ -16,7 +16,8 @@ const
   urlAdministradores   : String = '/contadigital/{{credencial}}/administradores';
   urlAdminisEmail      : String = '/contadigital/{{credencial}}/administradores/{{email}}';
 
-var
+var  
+  //Será alimentada pelo componente em runtime.
   urlEnvio : String;
 implementation
 
