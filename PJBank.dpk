@@ -36,6 +36,7 @@ contains
   uPJBank in 'Source\uPJBank.pas',
   uPJBank_ContaDigital in 'Source\uPJBank_ContaDigital.pas',
   uPJBank_Comum in 'Source\uPJBank_Comum.pas',
-  uPJBank_URLs in 'Source\uPJBank_URLs.pas';
+  uPJBank_URLs in 'Source\uPJBank_URLs.pas',
+  uPJBank_POST in 'Source\uPJBank_POST.pas';
 
 end.
